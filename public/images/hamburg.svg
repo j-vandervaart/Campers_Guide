@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="318.423 15 40.577 26.465">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(202, 204, 206, .5);
+      }
+    </style>
+  </defs>
+  <g id="hamburg" transform="translate(-13.577 3)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" class="cls-1" width="40.577" height="5.5" rx="1" transform="translate(332 12)"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" class="cls-1" width="40.577" height="5.5" rx="1" transform="translate(332 21.604)"/>
+    <rect id="Rectangle_13" data-name="Rectangle 13" class="cls-1" width="40.577" height="5.5" rx="1" transform="translate(332 31.604)"/>
+  </g>
+</svg>
